@@ -1,0 +1,6 @@
+E:\LeapFrog\Self\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+E:\LeapFrog\Self\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojResolveAssemblyReference.cache
+E:\LeapFrog\Self\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+E:\LeapFrog\Self\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+E:\LeapFrog\Self\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+E:\LeapFrog\Self\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
